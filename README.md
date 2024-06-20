@@ -1,16 +1,16 @@
 # pradeep979
 <h1 align="center">Hi 👋, I'm pradeep kumar</h1>
-<h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
+<h3 align="center">Data analyst Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
- <img src="https://github.com/princekr301/princekr301/blob/main/Linkedin_Heading.png" />
+ <img src="https://github.com/pradeep979/pradeep979/blob/main/Linkedin_Heading.png" />
 </h1>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=princekr301&label=Profile%20views&color=0e75b6&style=flat" alt="princekr301" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeep979&label=Profile%20views&color=0e75b6&style=flat" alt="pradeep979" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princekr301" alt="princekr301" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradeep979" alt="pradeep979" /></a> </p>
 
 
 <h1 align="left">
@@ -21,17 +21,17 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 🌱 I’m currently learning *Data Science in Artificial Intellgience with Deep Learning NLP*
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 👨‍💻 My Special Blogs at Medium Click Here :- [Medium.com](https://medium.com/@princekumar_95329)
+- 👨‍💻 My Special Blogs at Medium Click Here :- 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 📝 I Regularly Write articles on [Power BI Blog](https://mavenanalytics.io/project/6759)
+- 📝 I Regularly Write articles on 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 📫 How to reach me *princekr301@gmail.com*
+- 📫 How to reach me *pradipku0090@gmail.com*
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ⚡ Fun fact ** My Hobbie is Playing Cricket and amy recent hobbie is codding ✨**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prince kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Pradeep kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prince kumar" height="30" width="40" /></a>
 <a href="https://kaggle.com/princc301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="princc301" height="30" width="40" /></a>
 <a href="itsmeprince" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_itsmeprince_/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/princekr301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="princekr301" height="30" width="40" /></a>
