@@ -1,4 +1,4 @@
-
+![logo](https://www.freepik.com/free-vector/data-analysis-template-design_60394639.htm#query=data%20science%20poster&position=1&from_view=keyword&track=ais_user&uuid=5cf62bab-3c89-4423-b524-2a9e2132cd17)
 <h1 align="center">Hi 👋, I'm pradeep kumar</h1>
 <h3 align="center">Data analyst Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
