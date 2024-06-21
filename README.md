@@ -1,4 +1,4 @@
-# pradeep979
+# pradeep979https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fdata-analytics&psig=AOvVaw16zF1G4IJQFpIknSEMejL3&ust=1719042696225000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLjx9KOb7IYDFQAAAAAdAAAAABAE
 <h1 align="center">Hi 👋, I'm pradeep kumar</h1>
 <h3 align="center">Data analyst Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
